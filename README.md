@@ -9,10 +9,10 @@ To predict microbiome composition and function over time, it is essential to und
 
 ## Authors
 Reena Debray (rrdebray@berkeley.edu)
-Asa Conover
-Xuening Zhang
-Emily Dewald-Wang
-Britt Koskella
+\nAsa Conover
+\nXuening Zhang
+\nEmily Dewald-Wang
+\nBritt Koskella
 
 
 ## Contributions
