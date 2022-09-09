@@ -4,7 +4,8 @@ This is the gitlab repo for a paper describing how experimental evolution of an 
 ## Abstract
 To predict microbiome composition and function over time, it is essential to understand how evolution alters priority effects between resident and invading species. In an experimental evolution study on tomato plants, an early-colonizing bacterial species rapidly evolved to invade a new niche, altering its ecological interactions with other members of the plant microbiome, as well as its effect on the host. Prevailing models have assumed that adaptation primarily improves the efficiency of resident species within their existing niches, yet we conclude that host habitats can offer alternative evolutionary opportunities, complicating the application of existing theory to the community ecology of microbiomes.
 
-## Description of analyses
+## Description of files
+"Pantoea_dispersa.xlsx", "Pseudomonas_protegens.xlsx", and "Pseudomonas_syringae.xlsx" contain CFU counts from the arrival order experiments (used to generate the strength of priority effects metrics in Figure 1). "Spatial_colonization.xlsx" and "Symptom_scores.xlsx" contains CFU counts and symptom scores from plants inoculated only with ancestral or evolved Pantoea dispersa (used to generate Figure 2).
 
 
 ## Authors
